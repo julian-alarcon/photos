@@ -1,0 +1,25 @@
+# Base configs
+baseurl: "https://photos.desentropia.com"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Photography by Julian Alarcon"
+subtitle: "A glance of my life in pics!"
+author: "Julian Alarcon"
+header:
+ title: "Photos"
+ subtitle: "by Julian Alarcon"
+footer:
+ name: "Hi! My name is Julian"
+ bio: "I’m a DevOps engineer who loves open source software culture!
+I enjoy learning from new cultures and I try to experience one new thing every day as when I
+drove in one of the dangerous ways in South America (I'm not doing it again... ever)
+
+A coffee lover from a coffee country, an amateur photographer and a great conversationalist, especially when beer is involved!"
+social_urls:
+  facebook: "https://www.facebook.com/julian.alarcon.alcuadrado"
+  twitter: "twitter.com/julian_alarcon_"
+  instagram: "https://instagram.com/julian.alarcon_"
+  linkedin: "https://www.linkedin.com/in/julian-alarcon"
+  github: "https://github.com/julian-alarcon/"
