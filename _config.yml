@@ -12,12 +12,14 @@ header:
  subtitle: "by Julian Alarcon"
 footer:
  name: "Hi! My name is Julian"
- bio: "I'm a Photographer and I am also involved in the Development Software business (as DevOps)\n\n
+ bio: "I'm a Photographer and I am also involved in the Development Software business (as DevOps)<br><br>
 
 I enjoy learning from new cultures and I try to experience one new thing every day, loves
-open source and currently involve in Street, Drone, Landscape and Architecture photography.\n\n
+open source and currently involve in Street, Drone, Landscape and Architecture photography.<br><br>
 
-You can contact me using any of the social networks links below"
+You can contact me using any of the social networks links below.<br><br>
+
+<small>©2021 - Julian Alarcon - All Rights Reserved.</small>"
 social_urls:
   facebook: "https://www.facebook.com/julian.alarcon.alcuadrado"
   twitter: "https://twitter.com/julian_alarcon_"
