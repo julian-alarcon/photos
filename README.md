@@ -2,12 +2,20 @@
 
 A website with some of my photos.
 
-## Resize for thumbnails
+## Resize for publishing
 
-Using imagemagic (`sudo apt install imagemagick-6.q16`)
+Using imagemagic (`sudo apt install imagemagick`)
 
 ```sh
-convert "*.jpg[512x]" -set filename:base "%[basename]" "%[filename:base].jpg"
+mogrify -resize "2160x2160>" *.jpg
+```
+
+## Resize for thumbnails
+
+Using imagemagic (`sudo apt install imagemagick`)
+
+```sh
+mogrify -resize "512x512>" *.jpg
 ```
 
 ### Credits
