@@ -4,18 +4,18 @@ A website with some of my photos.
 
 ## Resize for publishing
 
-Using imagemagic (`sudo apt install imagemagick`)
+Using imagemagic (`sudo apt install graphicsmagick`)
 
 ```sh
-mogrify -resize "2160x2160>" *.jpg
+gm mogrify -quality 100 -resize "2160x2160>" *.jpg
 ```
 
 ## Resize for thumbnails
 
-Using imagemagic (`sudo apt install imagemagick`)
+Using imagemagic (`sudo apt install graphicsmagick`)
 
 ```sh
-mogrify -resize "512x512>" *.jpg
+gm mogrify -quality 100 -resize "512x512>" *.jpg
 ```
 
 ### Credits
